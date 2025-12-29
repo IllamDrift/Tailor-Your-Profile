@@ -1,0 +1,7 @@
+{
+  "name": "Tailor Your Profile",
+  "description": "Premium AI-driven resume architect. Transform LinkedIn profiles, screenshots, or documents into high-impact professional branding with expert HR logic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
